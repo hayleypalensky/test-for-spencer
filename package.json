@@ -1,0 +1,3 @@
+"bin": {
+  "my-npx-command": "./index.js"
+},
